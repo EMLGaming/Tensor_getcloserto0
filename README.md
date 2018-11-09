@@ -10,7 +10,10 @@ First download the files.<br>
 `git clone https://github.com/EMLGaming/Tensor_getcloserto0.git`<br>
 <br>
 Install the dependencies numpy, tensorflow and matplotlib.<br>
-`sudo pip install numpy && sudo pip install matplotlib && sudo pip install tensorflow`<br>
+`pip install numpy matplotlib tensorflow`<br>
+<br>
+Change directory.<br>
+`cd Tensor_getcloserto0`<br>
 <br>
 Finnally run the code.<br>
 `python3 tensorcloseto0.py`<br>
